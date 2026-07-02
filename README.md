@@ -1,5 +1,7 @@
 # REMOVEUAD
-Script To Remove Annoying UAD plugins from 3 main plugin Directories
+
+Script To Remove Annoying UAD plugins from 3 main plugin Directories. Does NOT delete Universal Console, Meter & Control Panel, and UADx plugins. 
+This is only for if you are my friend. If you are a stranger you should NEVER run shell scripts from online. 
 
 
 # TO USE 
@@ -10,6 +12,8 @@ Script To Remove Annoying UAD plugins from 3 main plugin Directories
 4. Double Click File
 5. Go to settings -> privacy and security
    <img width="194" height="132" alt="Screenshot 2026-07-02 at 4 32 58 PM" src="https://github.com/user-attachments/assets/66fc9fbe-1444-4754-ad67-54b48c254ce8" />
-6. 
-7. Put in Password
-8. Bask in the free 11gb you just saved in 1 click
+6. click "open anyway"
+   <img width="465" height="154" alt="Screenshot 2026-07-02 at 4 34 42 PM" src="https://github.com/user-attachments/assets/708c90f7-b208-4943-a372-c21a3f643246" />
+8. Put in Password(twice probably)
+9. Bask in the free 11gb you just saved in 1 click
+P.S you can now just double click this file anytime UAD makes you install all their plugins and it will delete all of them. 
